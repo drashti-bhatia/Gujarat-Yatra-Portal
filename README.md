@@ -158,28 +158,28 @@ Gujarat-Yatra-Portal/
 ## 📷 Screenshots  
 
 ### 🏠 Home Page  
-![Home Page](assets/img/images/homepage.png)
+![Home Page](assets/img/images/homepage.webp)
 
 ### 🔐 Login Page  
-![Login Page](assets/img/images/login.png)
+![Login Page](assets/img/images/login.webp)
 
-### 🧾Attractions.png Page  
-![Attractions Page](assets/img/images/attractions.png
+### 🧾Attractions Page  
+![Attractions Page](assets/img/images/attractions.webp)
 
 ### 🧾 Packages Page  
-![Packages Page](assets/img/images/packages.png)
+![Packages Page](assets/img/images/packages.webp)
 
 ### 🧾 Packages-details Page
-![Packages-details Page](assets/img/images/packages-details.png)
+![Packages-details Page](assets/img/images/packages-details.webp)
 
 ### 🧾 Booking Page  
-![Booking Page](assets/img/images/booking.png)
+![Booking Page](assets/img/images/booking.webp)
 
 ### 💬 My booking Page  
-![My booking Page](assets/img/images/my-bookings.png)
+![My booking Page](assets/img/images/my-bookings.webp)
 
 ### 📋 Admin Dashboard  
-![Admin Dashboard](assets/img/images/admin.png)
+![Admin Dashboard](assets/img/images/admin.webp)
 
 
 
