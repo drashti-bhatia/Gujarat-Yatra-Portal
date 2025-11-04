@@ -140,21 +140,6 @@ Gujarat-Yatra-Portal/
 
 ---
 
-## 📷 Screenshots
-
-| Page                           | Description                                        |
-| ------------------------------ | -------------------------------------------------- |
-| 🏠 **Home Page**               | Displays featured destinations and navigation menu |
-| 🔐 **Login & Signup**          | User authentication screens                        |
-| 🏞️ **Attractions & Packages** | Lists all cities, attractions, and package details |
-| 🧾 **Booking Page**            | Allows users to book travel packages               |
-| 📋 **Admin Dashboard**         | Admin management panel                             |
-| 💬 **Reviews Page**            | Displays and manages user reviews                  |
-
-*(You can upload screenshots in the `/images` folder and update links here.)*
-
----
-
 ## 📷 Screenshots  
 
 ### 🏠 Home Page  
