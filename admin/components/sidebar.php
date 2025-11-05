@@ -1,6 +1,7 @@
 <?php require_once('includes/auth.php');
 checkAdminAuth(); ?>
 <nav class="bg-gray-800 w-64 min-h-screen p-4 flex flex-col fixed h-full z-30">
+    <script src="../assets/tailwindcss.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <!-- Logo Section -->
     <div class="mb-8 flex-shrink-0">
